@@ -3,7 +3,7 @@ package com.muneendra.main;
 import java.util.Scanner;
 
 import com.muneendra.model.Employee;
-import com.muneendra.source.CredentialService;
+import com.muneendra.service.CredentialService;
 
 public class Driver {
 
